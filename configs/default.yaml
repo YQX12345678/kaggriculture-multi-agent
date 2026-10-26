@@ -1,0 +1,6 @@
+# 占位运行参数；src/main.py 的配置在代码内部 DEFAULT_SETTINGS
+boardSize: 10
+turnsPerDay: 24
+episodeSteps: 720
+shedCapacity: 100
+maxMarketOrdersPerTurn: 10
